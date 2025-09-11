@@ -1,0 +1,9 @@
+abrir terminal no vscode.
+
+git add . (adiciona todos os files)
+
+git commit -m "Mensagem do commit"
+
+git push origin main
+
+git pull origin main (se quiser puxar ficheiros que estejam online para a minha maquina)
