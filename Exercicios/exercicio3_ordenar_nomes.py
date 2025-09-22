@@ -17,7 +17,7 @@ nomes_ordenados=[]
 
 trocou=bool
 
-nomes_ordenados=sorted(nomes)
+nomes_ordenados=list(nomes)
 
 for i in range(len(nomes_ordenados)):
 
